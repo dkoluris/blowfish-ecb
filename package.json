@@ -1,18 +1,26 @@
 {
-    "name": "blowfish-ecb",
-    "version": "1.0.0",
-    "description": "Encode & Decode with a simplified ECB Blowfish implementation",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [
-        "cipher",
-        "blowfish",
-        "ecb",
-        "encode",
-        "decode"
-    ],
-    "author": "Dennis Koluris",
-    "license": "ISC"
+  "name": "blowfish-ecb",
+  "version": "1.0.1",
+  "description": "Encode & Decode with a simplified ECB Blowfish implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dkoluris@github.com/dkoluris/blowfish-ecb.git"
+  },
+  "keywords": [
+    "cipher",
+    "blowfish",
+    "ecb",
+    "encode",
+    "decode"
+  ],
+  "author": "Dennis Koluris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkoluris/blowfish-ecb/issues"
+  },
+  "homepage": "https://github.com/dkoluris/blowfish-ecb#readme"
 }
