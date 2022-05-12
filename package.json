@@ -1,6 +1,6 @@
 {
   "name": "blowfish-ecb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Encode & Decode with a simplified ECB Blowfish implementation",
   "main": "index.js",
   "scripts": {
